@@ -137,7 +137,7 @@
 </p> -->
  
 <h3  align="center">
-        <img align='center' src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width='300'>
+        <img align='center' src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width='450'>
         <samp>&gt; For the love of 
                 <b><a target="_blank" color ="ab00ff" href="https://github.com/easyvansh?tab=repositories">Coding</a>.</b>
         </samp>
