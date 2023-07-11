@@ -11,8 +11,6 @@
 </h1>
 
   <p align='center'>
-<!--   <img align='center' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='300'> -->
-<!--   <img align='center' src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width='600'> -->
   <img align='center' src="https://64.media.tumblr.com/tumblr_m1mfj6gCO81qjj1zvo1_500.gif" width='1000'>
   <br> 
   <br> 
@@ -101,41 +99,44 @@
        
 </h3>
 
+<h3  align="center">
+        <samp> Stats
+        </samp>
+</h3>
   <p align="center">
-        <br>
         <!-- Activity Widget -->
-        <img hspace = "5px"width ='55%' alt="Vansh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=easyvansh&show_icons=true&theme=midnight-purple&hide=contribs&border_color=ab00ff&border_radius=18" />
-        <img hspace = "5px" width ='37%' src ="https://github-readme-stats.vercel.app/api/top-langs/?username=easyvansh&layout=compact&theme=midnight-purple&langs_count=10&border_color=ab00ff&border_radius=18">
+        <img hspace = "5px"width ='52%' alt="Vansh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=easyvansh&show_icons=true&theme=midnight-purple&hide=contribs&border_color=ab00ff&border_radius=18" />
+        <img hspace = "5px" width ='35%' src ="https://github-readme-stats.vercel.app/api/top-langs/?username=easyvansh&layout=compact&theme=midnight-purple&langs_count=10&border_color=ab00ff&border_radius=18">
 </p>
 
-<br>
 
 
 <!-- Footer -->
 <!-- Featured Repositories -->
 <h3  align="center">
-        <samp>&gt; Featured
-                <b><a target="_blank" color ="ab00ff" href="https://github.com/easyvansh?tab=repositories"> Respositories</a></b>
+       <samp >Featured
+                <b "><a target="_blank" color ="ab00ff" href="https://github.com/easyvansh?tab=repositories"> Respositories</a></b>
         </samp>
 </h3>
 
+
 <p align="center">
 <a href="https://github.com/easyvansh/Weather-App">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=easyvansh&repo=Weather-App&border_color=ab00ff&border_radius=18&theme=midnight-purple" />
+<img width='44%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=easyvansh&repo=Weather-App&border_color=ab00ff&border_radius=18&theme=midnight-purple" />
 </a>
 <span>&nbsp;</span>
 <a href=https://github.com/easyvansh/To-Do-List">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=easyvansh&repo=To-Do-List&border_color=ab00ff&border_radius=18&theme=midnight-purple" />
+<img width='44%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=easyvansh&repo=To-Do-List&border_color=ab00ff&border_radius=18&theme=midnight-purple" />
 </a>
 </p>
 
 <p align="center">
 <a href="https://github.com/easyvansh/slow-spotify">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=easyvansh&repo=slow-spotify&border_color=ab00ff&border_radius=18&theme=midnight-purple" />
+<img width='44%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=easyvansh&repo=slow-spotify&border_color=ab00ff&border_radius=18&theme=midnight-purple" />
 </a>
 <span>&nbsp;</span>
 <a href="https://github.com/easyvansh/Docs">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=easyvansh&repo=Docs&border_color=ab00ff&border_radius=18&theme=midnight-purple" />
+<img width='44%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=easyvansh&repo=Docs&border_color=ab00ff&border_radius=18&theme=midnight-purple" />
 </a>
 </p>
 <h3  align="center">
