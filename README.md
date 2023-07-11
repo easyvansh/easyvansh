@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-
+<p align="center">
+<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=easyvansh&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <br>
+  <br>
+</p>
 
 <!--
 **easyvansh/easyvansh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
