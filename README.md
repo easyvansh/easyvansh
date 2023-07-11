@@ -6,7 +6,7 @@
 <!-- Title -->
 <h1  align="center">
         <samp>&gt; Hello World!,  I am
-                <b  ><a target="_blank" color ="ab00ff" href="bento.me/easyvansh">Vansh</a>.</b>
+                <b  ><a target="_blank" color ="ab00ff" href="https://bento.me/easyvansh">Vansh</a>.</b>
         </samp>
 </h1>
 
