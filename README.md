@@ -108,8 +108,8 @@
 <!--         <img hspace = "5px"width ='55%' alt="Vansh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=easyvansh&show_icons=true&theme=midnight-purple&hide=contribs&border_color=ab00ff&border_radius=18" />
         <img hspace = "5px" width ='32%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=easyvansh&layout=compact&theme=midnight-purple&langs_count=10&border_color=ab00ff&border_radius=18"> -->
 
-  <img hspace = "5px" src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&border_color=ab00ff&border_radius=18&disable_animations=false&theme=midnight-purple&locale=en&username=easyvansh" height="150" alt="stats graph"  />
-  <img hspace = "5px" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&border_color=ab00ff&border_radius=18&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&username=easyvansh" height="150" alt="languages graph"  />
+  <img hspace = "5px" src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&border_color=ab00ff&border_radius=18&disable_animations=false&theme=midnight-purple&locale=en&username=easyvansh" height="200" alt="stats graph"  />
+  <img hspace = "5px" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&border_color=ab00ff&border_radius=18&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&username=easyvansh" height="200" alt="languages graph"  />
 
   </p>
 
