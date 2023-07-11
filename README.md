@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-## 1. GitHub Stats
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=easyvansh&show_icons=true)
 
 
 <!--
