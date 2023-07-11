@@ -105,8 +105,8 @@
 </h3>
   <p align="center">
         <!-- Activity Widget -->
-        <img hspace = "5px"width ='52%' alt="Vansh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=easyvansh&show_icons=true&theme=midnight-purple&hide=contribs&border_color=ab00ff&border_radius=18" />
-        <img hspace = "5px" width ='35%' src ="https://github-readme-stats.vercel.app/api/top-langs/?username=easyvansh&layout=compact&theme=midnight-purple&langs_count=10&border_color=ab00ff&border_radius=18">
+        <img hspace = "5px"width ='55%' alt="Vansh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=easyvansh&show_icons=true&theme=midnight-purple&hide=contribs&border_color=ab00ff&border_radius=18" />
+        <img hspace = "5px" width ='32%' src ="https://github-readme-stats.vercel.app/api/top-langs/?username=easyvansh&layout=compact&theme=midnight-purple&langs_count=10&border_color=ab00ff&border_radius=18">
 </p>
 
 
