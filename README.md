@@ -15,7 +15,7 @@
   <img align='center' src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width='600'>
   <br> 
   <br> 
-  <img src="https://readme-typing-svg.herokuapp.com?size=36&color=2b96c5&vCenter=true&center=true&pause=1000&width=600&height=50&lines=Computer+Science+Student;App+Developer;Web+Developer;AI-ML+Enthusiast;Open-Source+Enthusiast" alt="Headline" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=36&color=2b96c5&vCenter=true&center=true&pause=1000&width=600&height=50&lines=Computer+Science+Student;Web+Developer;App+Developer;AI-ML+Enthusiast;Open-Source+Enthusiast;" alt="Headline" />
   <br>
   <!-- Profile Views Counter -->
   <img src = "https://komarev.com/ghpvc/?username=easyvansh&style=flat-square&color=lightgrey"/>
