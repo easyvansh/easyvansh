@@ -110,16 +110,13 @@
 </p>
 
 
-
-<!-- Footer -->
-<!-- Featured Repositories -->
+<!-- <!-- Footer -->
+<!-- Featured Repositories 
 <h3  align="center">
        <samp >Featured
                 <b "><a target="_blank" color ="ab00ff" href="https://github.com/easyvansh?tab=repositories"> Respositories</a></b>
         </samp>
 </h3>
-
-
 <p align="center">
 <a href="https://github.com/easyvansh/Weather-App">
 <img width='44%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=easyvansh&repo=Weather-App&border_color=ab00ff&border_radius=18&theme=midnight-purple" />
@@ -129,7 +126,6 @@
 <img width='44%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=easyvansh&repo=To-Do-List&border_color=ab00ff&border_radius=18&theme=midnight-purple" />
 </a>
 </p>
-
 <p align="center">
 <a href="https://github.com/easyvansh/slow-spotify">
 <img width='44%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=easyvansh&repo=slow-spotify&border_color=ab00ff&border_radius=18&theme=midnight-purple" />
@@ -138,7 +134,8 @@
 <a href="https://github.com/easyvansh/Docs">
 <img width='44%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=easyvansh&repo=Docs&border_color=ab00ff&border_radius=18&theme=midnight-purple" />
 </a>
-</p>
+</p> -->
+ 
 <h3  align="center">
         <img align='center' src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width='300'>
         <samp>&gt; For the love of 
