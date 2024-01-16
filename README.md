@@ -27,7 +27,7 @@
         <samp>
                 「 I'm a undergraduate student at <b><a target="_blank" color ="ab00ff" href="https://www.ualberta.ca/index.html">University of Alberta</a></b> 」
                 <br>
-                「 Focused on creating impactful web applications that improve lives</b> 」
+                「 Focused on creating impactful tools that improve lives</b> 」
                 <br>
                 <br>
         </samp>
