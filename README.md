@@ -1,24 +1,19 @@
 <h1 align="center"> <samp>> Hello World!, I am <b><a target="_blank" href="https://bento.me/easyvansh" style="color: #ab00ff;">Vansh</a>.</b> </samp> </h1>
 
-<br>
 
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=32&color=ab00ff&vCenter=true&center=true&pause=1000&width=500&height=40&lines=Computer+Science+Graduate;Full-Stack+%26+AI+Engineer;Building+Media-Tech+;Building+Intelligent+Systems;Cinema+%C3%97+Code+%C3%97+Systems;Designing+Tools+with+Story;Open-Source+Contributor;Always+Learning...;" alt="Headline Typing SVG" /> 
-</div>        
-<br>
 
 
 
 <p align="center">
   <img src="https://64.media.tumblr.com/tumblr_m1mfj6gCO81qjj1zvo1_500.gif" width="900">
 </p>
-<p align="center">
-  <samp>
-    Computer Science × Cinema × Intelligent Systems
-  </samp>
-</p>
-
 <br>
+
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=32&color=ab00ff&vCenter=true&center=true&pause=1000&width=500&height=40&lines=Computer+Science+Graduate;Full-Stack+%26+AI+Engineer;Building+Media-Tech+;Building+Intelligent+Systems;Cinema+%C3%97+Code+%C3%97+Systems;Designing+Tools+with+Story;Open-Source+Contributor;Always+Learning...;" alt="Headline Typing SVG" /> 
+</div>        
+>
+
 
 <div align="center">
 <samp>
@@ -27,11 +22,19 @@ BSc Computer Science — University of Alberta
 Computer Science × Film  
 </samp>
 </div>
-<br>
-
 
 <div align="center">
 <samp>
+
+**Philosophy**
+
+Technology should feel deliberate.  
+Interfaces should feel composed.  
+Systems should feel inevitable.  
+
+I approach software the way a director approaches a film,  
+with structure, pacing, and purpose.
+
 
 I design and build **intelligent software systems** shaped by  
 engineering discipline and cinematic thinking.
@@ -46,21 +49,6 @@ but intentional — systems that carry clarity, structure, and narrative.
 </div>
 
 <br>
-
-<div align="center">
-<samp>
-
-**Philosophy**
-
-Technology should feel deliberate.  
-Interfaces should feel composed.  
-Systems should feel inevitable.  
-
-I approach software the way a director approaches a film —  
-with structure, pacing, and purpose.
-
-</samp>
-</div>
 
 
 
