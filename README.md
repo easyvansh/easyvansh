@@ -1,4 +1,4 @@
-<h1 align="center"> <samp>> Hello World!, I am <b><a target="_blank" href="https://bento.me/easyvansh" style="color: #ab00ff;">Vansh</a>.</b> </samp> </h1>
+<h1 align="center"> <samp>> Hello World!, I am <b><a target="_blank" href="https://easyvansh.vercel.app" style="color: #ab00ff;">Vansh</a>.</b> </samp> </h1>
 
 
 
