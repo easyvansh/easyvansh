@@ -1,31 +1,31 @@
 <div align="center">
 
-<sub><samp>TRANSMISSION 0023 / EASYVANSH</samp></sub>
-
-# Vansh Singh
-
-*software · cinema · systems · music*
+<sub>TRANSMISSION 0023 · EASYVANSH</sub>
 
 <br>
 
-<a href="https://easyvansh.vercel.app"><b>portfolio ↗</b></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/easyvansh?tab=repositories"><b>code ↗</b></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/easyvansh"><b>linkedin ↗</b></a>
-&nbsp;&nbsp;&nbsp;
-<a href="mailto:vansh2@ualberta.ca"><b>write ↗</b></a>
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=42&duration=3500&pause=1200&color=E8E8E8&center=true&vCenter=true&width=520&height=70&lines=Vansh+Singh" alt="Vansh Singh" />
+
+<sub><i>computing science · film studies — university of alberta</i></sub>
+
+<br><br>
+
+<a href="https://easyvansh.vercel.app"><b>portfolio</b></a>
+<sub> &nbsp;/&nbsp; </sub>
+<a href="https://thefifthwall.vercel.app"><b>the fifth wall</b></a>
+<sub> &nbsp;/&nbsp; </sub>
+<a href="https://github.com/easyvansh?tab=repositories"><b>code</b></a>
+<sub> &nbsp;/&nbsp; </sub>
+<a href="https://linkedin.com/in/easyvansh"><b>linkedin</b></a>
 
 <br><br>
 
 <img
 src="https://64.media.tumblr.com/tumblr_m1mfj6gCO81qjj1zvo1_500.gif"
-width="760"
+width="700"
 />
 
-<br>
-
-<sub><samp>FRAME 001 / COMPUTER SCIENCE × MOVING IMAGES</samp></sub>
+<sub><i>see you, space cowboy</i></sub>
 
 </div>
 
@@ -33,61 +33,36 @@ width="760"
 
 ---
 
-## About
-
-**BSc Computing Science · University of Alberta**  
-Film Studies minor.
-
-I like software that makes complicated things feel simple, and films that make simple things feel complicated.
-
-Most of what interests me sits somewhere between:
-
-`systems` · `AI` · `interfaces` · `cinema` · `music` · `Japan`
-
 <br>
 
-<div align="center">
+### Exposition
 
-<img src="https://skillicons.dev/icons?i=python,cpp,ts,js,react,nextjs,nodejs,fastapi,postgres,docker,linux,git&perline=6"/>
+I build software the way I watch films I like twice — once for what happens, once for how it was made to happen.
 
-<br><br>
-
-<sub><samp>
-PYTHON · C++ · TYPESCRIPT · REACT · FASTAPI · POSTGRES · DOCKER · LINUX
-</samp></sub>
-
-</div>
+Four and a half years split between a computing science degree and a film studies minor left me with one running question I keep pointing at different things: **how does a system decide what matters?** A recommendation engine deciding relevance. A director deciding where to cut. A frame deciding what stays outside it.
 
 <br>
 
 ---
 
-## Two sides of the same tape
+<br>
 
-<table>
+### Two Reels
+
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-**SIDE A**
+**Reel A — Systems**
 
-software systems  
-AI & retrieval  
-developer tools  
-good interfaces  
-old computers  
-the weird internet  
+Backend architecture, information retrieval, applied ML, the unglamorous plumbing that makes an interface feel inevitable.
 
 </td>
 <td width="50%" valign="top">
 
-**SIDE B**
+**Reel B — Cinema**
 
-Japanese cinema  
-Wong Kar-wai  
-Bill Withers  
-Marvin Gaye  
-anime  
-cities at night  
+Film theory, cross-cultural representation, the grammar of editing, why a shot held two seconds too long changes everything.
 
 </td>
 </tr>
@@ -97,52 +72,33 @@ cities at night
 
 ---
 
-<div align="center">
-
-<img src="YOUR_CURATED_CINEMA_OR_ANIME_GIF.gif" width="560"/>
-
 <br>
 
-<sub><samp>アイキャッチ / INTERMISSION</samp></sub>
+<div align="center">
+
+<img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400">
+
+<sub><i>have you tried turning it off and on again</i></sub>
 
 </div>
 
 <br>
 
-> **Computers arrange information. Cinema arranges attention.**
-
-That overlap is probably why I ended up studying both.
+> Computers arrange information. Cinema arranges attention.
+> I ended up studying both because I couldn't tell which one I meant first.
 
 <br>
 
 ---
 
-## Currently
-
-```text id="ptz8o4"
-WATCHING     something I'll think about for three days
-LISTENING    ↓ live from my headphones
-LEARNING     systems / AI / 日本語
-MAKING       [REDACTED]
-```
+<br>
 
 <div align="center">
 
-<!-- Dynamic Spotify card -->
-<img src="YOUR_SPOTIFY_NOW_PLAYING_CARD.svg" width="460"/>
+<sub>edmonton, ab · dehradun, in · available for remote work</sub>
 
 <br><br>
 
-<img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="390"/>
-
-<br><br>
-
-<sub><samp>
-VANSH SINGH / FRAME 0023
-</samp></sub>
-
-<br>
-
-*code something · watch something · make something*
+<sub><i>code something · watch something · make something</i></sub>
 
 </div>
